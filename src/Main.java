@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Student studentTemp = new Student(" ", " ", 0, 0);
+        Student studentTemp = null;
         Student[] studentArr = {
                 new Student("Булочка Иван Борисов", "ИВТ", 1, 3.6),
                 new Student("Таранов Иван Пивоваров", "ПУСИ", 2, 4.0),
